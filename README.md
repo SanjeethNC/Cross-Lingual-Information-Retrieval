@@ -102,9 +102,6 @@ The model used is seen below:
 2. Using a sentence tokenizer from the BERT family offers advantages in tokenizing text into meaningful segments. Instead of the current embedding model that learns embeddings from scratch, leveraging BERT-based tokenization can benefit the process.
 3. Employing exact nearest neighbor search metrics such as cosine similarity or Euclidean distance could refine the search process. 
 
-## GitHub Repository -  
-
-Here is the link for the [repository](https://github.com/Iashaun/Iashaun.github.io-Cross-Lingual-Information-Retrieval-CLIR-)
 
 ### References
 We took inspiration from the following papers and worked on our project
