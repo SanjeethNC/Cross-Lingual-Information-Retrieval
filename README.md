@@ -2,7 +2,7 @@
 
 
 ## Team Members: 
-Shaun Noronha, Sheroz Shaikh
+Sanjeeth Nagappa Chakrasali
 
 ## Background and Motivation
 Our proposed tool is designed to perform cross-lingual information retrieval by extracting
