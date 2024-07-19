@@ -2,7 +2,7 @@
 
 
 ## Team Members: 
-Sanjeeth Nagappa Chakrasali
+Sanjeeth Nagappa Chakrasali, Shaun Noronha
 
 ## Background and Motivation
 Our proposed tool is designed to perform cross-lingual information retrieval by extracting
